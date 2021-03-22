@@ -16,4 +16,4 @@ jobs:
           go-version: "1.15"
 
       - name: Test
-        run: make test build
+        run: make test
